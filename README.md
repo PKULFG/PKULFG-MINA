@@ -1,2 +1,3 @@
 # PKULFG-MINA
-PKUers looking for group mini app
+这是为北京大学学生提供组队平台的微信小程序
+
